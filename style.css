@@ -1,0 +1,25 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.input-custom{
+    height: 50px;
+    width: 50%;
+}
+
+.brd{
+    border: 2px solid yellow;
+    border-radius: 10px;
+}
+
+
+.card-custom{
+
+    height: 100%;
+    max-width: 100%;
+    padding: 1rem 2rem;
+    font-weight: bold;
+    font-size: 5rem;
+    
+}
